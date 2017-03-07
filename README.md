@@ -1,4 +1,4 @@
-## WORK IN PROGRESS... 2/3 days and all file will be published
+## WORK IN PROGRESS... 2/3 days and all files will be published
 
 ## HTML5UP theme for ANCHOR CMS 
 This repository convert a HTM5UP template ("[Editorial](https://html5up.net/editorial)") to a [Anchor CMS](https://anchorcms.com/) theme
