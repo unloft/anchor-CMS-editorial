@@ -1,2 +1,3 @@
-# anchor-CMS-editorial
-This repository convert a HTM5UP template ("Editorial") to a Anchor CMS THEME
+##HTML5UP theme for ANCHOR CMS
+This repository convert a HTM5UP template ("[Editorial](https://html5up.net/editorial)") to a [Anchor CMS](https://anchorcms.com/) theme
+
