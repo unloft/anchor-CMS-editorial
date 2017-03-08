@@ -4,11 +4,11 @@
 This repository convert a HTM5UP template ("[Editorial](https://html5up.net/editorial)") to a [Anchor CMS](https://anchorcms.com/) theme
 
 ## Requirement
--Anchor CMS](https://anchorcms.com/) Installed
+-[Anchor CMS](https://anchorcms.com/) Installed
 
--Anchor CMS](https://anchorcms.com/) basic knowledge
+-[Anchor CMS](https://anchorcms.com/docs) basic knowledge
 
--PHP low skill
+-PHP low/medium skill
 
 ## Install and Active Editorial Theme
 -Clone or Download ZIP
