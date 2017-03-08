@@ -1,4 +1,6 @@
-## WORK IN PROGRESS... 2/3 days and all file will be published
+## WORK IN PROGRESS...  They will be published all explained features.
+Sorry , 
+But soon will be explained All FUNCTIONS, All Sets Up , All Custom Fields and how they interact  interact let them.
 
 ## HTML5UP theme for ANCHOR CMS 
 This repository convert a HTM5UP template ("[Editorial](https://html5up.net/editorial)") to a [Anchor CMS](https://anchorcms.com/) theme
