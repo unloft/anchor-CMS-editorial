@@ -1,0 +1,5 @@
+Theme name:    Editorial
+Description:   This is the Editorial by HTML5UP.net theme for Anchor CMS.
+Author name: HTML5UP - UNLOFT  
+Author site:   http://visualidiot.com
+License:       http://licence.visualidiot.com
